@@ -1,0 +1,30 @@
+body {
+  padding: 0;
+  margin: 80px auto;
+  width: 1000px;
+  font-family: sans-serif;
+  background-color: #e7f5ff;
+}
+
+fieldset {
+  border: blue 2px solid;
+}
+
+.info {
+  margin-bottom: 30px;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+
+.form {
+  width: 300px;
+  background-color: #d0ebff;
+}
+
+.title {
+  text-align: center;
+}

@@ -1,0 +1,39 @@
+{
+  "fields": [
+    {
+      "position": "Developer Jr.",
+      "yersOfExperience": 1,
+      "_uid": "84e95850-4a97-41cf-b20f-66a18174d6e7"
+    },
+    {
+      "position": "Developer Senior.",
+      "yersOfExperience": 5,
+      "_uid": "f931339c-cf92-4a1b-9183-071bc8db0dd2"
+    },
+    {
+      "position": "Software Engineer",
+      "yersOfExperience": 3,
+      "_uid": "24baa00d-c4c8-4516-ac9f-682d693d950d"
+    },
+    {
+      "position": "Hardware Engineer",
+      "yersOfExperience": 3,
+      "_uid": "55b96454-8b1d-4ba9-987f-d93e2f6f07e8"
+    },
+    {
+      "position": "Marketing",
+      "yersOfExperience": 5,
+      "_uid": "55b91212454-8b1d-4ba934-987f-d93e27e8"
+    },
+    {
+      "position": "Human Resources",
+      "yersOfExperience": 2,
+      "_uid": "55dasd96454-8b1d-4ba-98adsaf-d93ef07e8"
+    },
+    {
+      "position": "graphic designer",
+      "yersOfExperience": 4,
+      "_uid": "55b54-8b1asd42334d-4ba942342-987f-d93ef07e8"
+    }
+  ]
+}
